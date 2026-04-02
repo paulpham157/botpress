@@ -10,7 +10,7 @@
     "@botpress/common": "workspace:*",
     "@botpress/sdk": "workspace:*",
     "@botpress/sdk-addons": "workspace:*",
-    "axios": "^1.7.7",
+    "axios": "^0.30.3",
     "googleapis": "^144.0.0",
     "jsonwebtoken": "^9.0.2",
     "uuid": "^9.0.0"
@@ -20,7 +20,7 @@
     "@sentry/cli": "^2.39.1",
     "@types/jsonwebtoken": "^9.0.3",
     "@types/uuid": "^9.0.1",
-    "preact": "^10.26.6"
+    "preact": "^10.26.10"
   },
   "bpDependencies": {
     "files-readonly": "../../interfaces/files-readonly"
