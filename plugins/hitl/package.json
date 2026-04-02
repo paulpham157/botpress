@@ -14,8 +14,8 @@
     "@botpress/cli": "workspace:*",
     "@botpresshub/hitl": "workspace:*",
     "@types/lodash": "^4.14.191",
-    "@types/semver": "^7.3.11",
-    "semver": "^7.3.8"
+    "@types/semver": "^7.7.1",
+    "semver": "^7.7.4"
   },
   "bpDependencies": {
     "hitl": "../../interfaces/hitl"
