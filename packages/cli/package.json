@@ -32,7 +32,7 @@
     "@stoplight/spectral-parsers": "^1.0.4",
     "@types/lodash": "^4.14.191",
     "@types/verror": "^1.10.6",
-    "axios": "^1.4.0",
+    "axios": "^0.31.0",
     "bluebird": "^3.7.2",
     "boxen": "5.1.2",
     "chalk": "^4.1.2",
@@ -44,7 +44,7 @@
     "prettier": "^3.4.2",
     "prompts": "^2.4.2",
     "semver": "^7.3.8",
-    "uuid": "^9.0.0",
+    "uuid": "^14.0.0",
     "verror": "^1.10.1",
     "yn": "^4.0.0"
   },
