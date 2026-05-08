@@ -8,7 +8,7 @@
   "dependencies": {
     "@botpress/client": "1.24.1",
     "@botpress/sdk": "4.15.6",
-    "axios": "^1.6.8"
+    "axios": "^0.31.1"
   },
   "devDependencies": {
     "@types/node": "^22.16.4",
