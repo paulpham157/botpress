@@ -10,10 +10,10 @@
     "@botpress/common": "workspace:*",
     "@botpress/sdk": "workspace:*",
     "@botpress/sdk-addons": "workspace:*",
-    "axios": "^1.7.7",
+    "axios": "^0.31.1",
     "googleapis": "^144.0.0",
     "jsonwebtoken": "^9.0.2",
-    "uuid": "^9.0.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@botpress/cli": "workspace:*",
